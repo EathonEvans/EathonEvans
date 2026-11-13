@@ -1,52 +1,104 @@
-# Hi there 👋 I'm YourName
-
 <div align="center">
 
-### 🚀 Builder | Java Backend Developer | AI Explorer
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:845EC2,50:C49BFF,100:00C9A7&text=Hey%2C%20I'm%20EathonEvans%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Java%20Backend%20%C2%B7%20AI%20Explorer%20%C2%B7%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E7%8E%A9&descAlignY=56&descSize=16" width="100%" alt="header" />
 
-不只是写代码，  
-也在构建更高效的系统、更顺手的工具、以及更有想象力的产品。
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00C9A7&center=true&vCenter=true&repeat=true&random=false&width=640&lines=Java+Backend+Developer+%E2%98%95;AI+Agent+%2F+RAG+Explorer+%F0%9F%A4%96;macOS+Tinkerer+%F0%9F%96%A5;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%BF%AB%E9%80%9F%E8%90%BD%E5%9C%B0%E6%88%90%E4%BA%A7%E5%93%81)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=EathonEvans&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="visitors" />
+<img src="https://img.shields.io/github/followers/EathonEvans?label=FOLLOWERS&style=for-the-badge&color=845EC2&logo=github" alt="followers" />
 
 </div>
 
 ---
 
-## 🧭 About Me
+## 🙋‍♂️ About Me · 关于我
 
-- 🔥 专注于 **Java / Spring Boot / 后端架构**
-- 🤖 正在深入 **AI Agent / RAG / Tool Calling / MCP**
-- 🛠 喜欢把想法快速落地成可运行的产品
-- 🎯 关注 **系统设计、开发效率、产品体验**
-- 🌱 持续探索：从传统工程开发走向 AI Native 开发
+```bash
+$ whoami
+EathonEvans   # Java 后端开发 / AI Explorer
 
----
+$ cat focus.txt
+Java · Spring Boot · AI Agent · RAG · Tool Calling · MCP
 
-## ⚡ Tech Stack
+$ uptime
+still compiling... ☕   # 下班是不可能的，bug 还没修完 😅
+```
 
-### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D92C2C?style=for-the-badge&logo=redis&logoColor=white)
-![MyBatis Plus](https://img.shields.io/badge/MyBatis--Plus-2C3E50?style=for-the-badge)
-
-### AI / Agent
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![LangGraph](https://img.shields.io/badge/LangGraph-4B5563?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- 🔭 **Now building** · 正在做：AI 驱动的应用与实用的 Agent 工作流
+- 🌱 **Now learning** · 在学：从传统工程开发走向 **AI Native 开发**（Agent / RAG / MCP）
+- 💬 **Ask me about** · 欢迎聊：Java 后端架构 / Spring Boot / 系统设计 / 开发效率
+- 🛠 **Believe** · 信条：喜欢把想法快速落地成可运行的产品
+- ⚡ **Fun fact** · 冷知识：顺手写的 macOS 小工具 [maclean](https://github.com/EathonEvans/maclean) 已经能 `brew install` 了 🍺
+- 📫 **Reach me** · 找我：直接开 Issue 或 Discussion，欢迎来聊
 
 ---
 
-## 🧠 Current Focus
+## 🛠️ Tech Stack · 技术栈
 
-```text
-- Building AI-powered applications
-- Designing practical Agent workflows
-- Turning product ideas into real systems
-- Exploring the next generation of developer tools
+**Java & Backend · 后端主力**
+
+![Backend](https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=dark)
+
+**AI & Agent · 智能体开发**
+
+![AI](https://skillicons.dev/icons?i=python&theme=dark)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-4B5563?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-6DB33F?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Tools & Side Quest · 工具与副业**
+
+![Tools](https://skillicons.dev/icons?i=idea,git,docker,linux,swift&theme=dark)
+
+---
+
+## 🚀 Featured Project · 精选项目
+
+### 🖥️ [maclean](https://github.com/EathonEvans/maclean)
+
+> 极简 macOS 菜单栏工具：**Mac 屏幕清洁模式 + 显示器休眠**，免费使用。
+> A tiny free menu-bar app for screen cleaning & display sleep.
+
+[![stars](https://img.shields.io/github/stars/EathonEvans/maclean?style=for-the-badge&logo=github&color=00C9A7)](https://github.com/EathonEvans/maclean/stargazers)
+[![release](https://img.shields.io/github/v/release/EathonEvans/maclean?style=for-the-badge&color=845EC2)](https://github.com/EathonEvans/maclean/releases)
+[![license](https://img.shields.io/github/license/EathonEvans/maclean?style=for-the-badge&color=C49BFF)](https://github.com/EathonEvans/maclean/blob/main/LICENSE)
+
+```bash
+brew install EathonEvans/maclean/maclean
+```
+
+📦 更多项目（IM、聚合平台、AI 小程序…）见 [All Repos](https://github.com/EathonEvans?tab=repositories) · more on the repo list.
+
+---
+
+## 🎲 Fun Zone · 快乐老家
+
+> 🎮 **Side quest · 副业进度**：给 Mac 写的工具上架了，给猫写的 IoT 喂食器还在等猫验收 🐱
+
+[![Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<!-- 
+  🐍 贪吃蛇吃贡献图 · Snake eating my contribution graph
+  启用步骤：
+  1. 仓库 Settings → Actions → General → Workflow permissions 勾选 "Read and write permissions"
+  2. 到 Actions 页面手动 Run 一次 "Generate Snake" workflow
+  3. 删除本注释块两侧的标记，动画即会显示
+
+<h3 align="center">🐍 Watch the snake eat my contributions · 贪吃蛇吃掉我的贡献</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EathonEvans/EathonEvans/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EathonEvans/EathonEvans/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/EathonEvans/EathonEvans/output/github-contribution-grid-snake.svg" />
+</picture>
+-->
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:845EC2,50:C49BFF,100:00C9A7&section=footer" width="100%" />
+
+**Made with ❤️ and way too much ☕** · *代码会跑，别问为什么 / It works on my machine* 🤷
+
+</div>
