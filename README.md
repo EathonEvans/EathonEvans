@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:845EC2,50:C49BFF,100:00C9A7&text=Hey%2C%20I'm%20EathonEvans%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&fontAlignY=34&animation=fadeIn&desc=Java%20Backend%20%C2%B7%20AI%20Explorer%20%C2%B7%20%E6%AC%A2%E8%BF%8E%E6%9D%A5%E7%8E%A9&descAlignY=56&descSize=16" width="100%" alt="header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00C9A7&center=true&vCenter=true&repeat=true&random=false&width=640&lines=Java+Backend+Developer+%E2%98%95;AI+Agent+%2F+RAG+Explorer+%F0%9F%A4%96;macOS+Tinkerer+%F0%9F%96%A5;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%BF%AB%E9%80%9F%E8%90%BD%E5%9C%B0%E6%88%90%E4%BA%A7%E5%93%81)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00C9A7&center=true&vCenter=true&repeat=true&random=false&width=640&lines=Java+Backend+Developer+%E2%98%95;Go+%C2%B7+Gin+%C2%B7+GORM+%F0%9F%90%B9;AI+Agent+%2F+RAG+Explorer+%F0%9F%A4%96;macOS+Tinkerer+%F0%9F%96%A5;%E6%8A%8A%E6%83%B3%E6%B3%95%E5%BF%AB%E9%80%9F%E8%90%BD%E5%9C%B0%E6%88%90%E4%BA%A7%E5%93%81)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=EathonEvans&style=for-the-badge&color=00C9A7&label=PROFILE+VIEWS" alt="visitors" />
 <img src="https://img.shields.io/github/followers/EathonEvans?label=FOLLOWERS&style=for-the-badge&color=845EC2&logo=github" alt="followers" />
@@ -38,6 +38,8 @@ still compiling... ☕   # 下班是不可能的，bug 还没修完 😅
 **Java / Go & Backend · 后端主力**
 
 ![Backend](https://skillicons.dev/icons?i=java,spring,go,mysql,redis&theme=dark)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=gin&logoColor=white)
+![GORM](https://img.shields.io/badge/GORM-29627E?style=flat-square&logo=gorm&logoColor=white)
 
 **AI & Agent · 智能体开发**
 
