@@ -18,7 +18,7 @@ $ whoami
 EathonEvans   # Java 后端开发 / AI Explorer
 
 $ cat focus.txt
-Java · Spring Boot · AI Agent · RAG · Tool Calling · MCP
+Java · Spring Boot · Go · AI Agent · RAG · Tool Calling · MCP
 
 $ uptime
 still compiling... ☕   # 下班是不可能的，bug 还没修完 😅
@@ -35,9 +35,9 @@ still compiling... ☕   # 下班是不可能的，bug 还没修完 😅
 
 ## 🛠️ Tech Stack · 技术栈
 
-**Java & Backend · 后端主力**
+**Java / Go & Backend · 后端主力**
 
-![Backend](https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=dark)
+![Backend](https://skillicons.dev/icons?i=java,spring,go,mysql,redis&theme=dark)
 
 **AI & Agent · 智能体开发**
 
