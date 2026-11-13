@@ -1,0 +1,30 @@
+# 🐍 贪吃蛇工作流：每天自动生成"贪吃蛇吃贡献图"动画并发布到 output 分支
+# 启用前提：仓库 Settings → Actions → General → Workflow permissions → 勾选 "Read and write permissions"
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # 每天 UTC 02:00（北京时间 10:00）跑一次
+  workflow_dispatch: # 同时支持在 Actions 页面手动触发
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: EathonEvans
+          outputs: |
+            dist/github-contribution-grid-snake.svg?palette=github-light
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push snake to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
