@@ -57,6 +57,16 @@ still compiling... ☕   # 下班是不可能的，bug 还没修完 😅
 
 ## 🚀 Featured Project · 精选项目
 
+### 🦏 [lingxi-workbench](https://github.com/EathonEvans/lingxi-workbench)
+
+> 意图路由驱动的企业级 AI 工作台：**Agent / Workflow 双引擎 · RAG · HITL · 主动任务**
+> Java 21 · Spring Boot 4.1 · AgentScope · Next.js 16，881 个测试用例
+> Intent-routed AI workbench with dual Agent/Workflow engines.
+
+[![Java 21](https://img.shields.io/badge/Java_21-21-00C9A7?style=for-the-badge&logo=openjdk)](https://github.com/EathonEvans/lingxi-workbench)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-4.1-845EC2?style=for-the-badge&logo=springboot)](https://github.com/EathonEvans/lingxi-workbench)
+[![License](https://img.shields.io/badge/License-Apache--2.0-C49BFF?style=for-the-badge)](https://github.com/EathonEvans/lingxi-workbench/blob/main/LICENSE)
+
 ### 🖥️ [maclean](https://github.com/EathonEvans/maclean)
 
 > 极简 macOS 菜单栏工具：**Mac 屏幕清洁模式 + 显示器休眠**，免费使用。
