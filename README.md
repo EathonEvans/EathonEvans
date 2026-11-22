@@ -82,30 +82,7 @@ brew install EathonEvans/maclean/maclean
 
 📦 更多项目（IM、聚合平台、AI 小程序…）见 [All Repos](https://github.com/EathonEvans?tab=repositories) · more on the repo list.
 
----
 
-## 🎲 Fun Zone · 快乐老家
-
-> 🎮 **Side quest · 副业进度**：给 Mac 写的工具上架了，给猫写的 IoT 喂食器还在等猫验收 🐱
-
-[![Readme Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<!-- 
-  🐍 贪吃蛇吃贡献图 · Snake eating my contribution graph
-  启用步骤：
-  1. 仓库 Settings → Actions → General → Workflow permissions 勾选 "Read and write permissions"
-  2. 到 Actions 页面手动 Run 一次 "Generate Snake" workflow
-  3. 删除本注释块两侧的标记，动画即会显示
-
-<h3 align="center">🐍 Watch the snake eat my contributions · 贪吃蛇吃掉我的贡献</h3>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EathonEvans/EathonEvans/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EathonEvans/EathonEvans/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/EathonEvans/EathonEvans/output/github-contribution-grid-snake.svg" />
-</picture>
--->
-
----
 
 <div align="center">
 
