@@ -80,6 +80,16 @@ still compiling... ☕   # 下班是不可能的，bug 还没修完 😅
 brew install EathonEvans/maclean/maclean
 ```
 
+### 💬 [JoyChat](https://github.com/didiEvans/gpt-joy-chat)
+
+> 界面美观、强大易用、可快速部署的 GPT Web 客户端 · Java 实现。
+> 早期账号 [didiEvans](https://github.com/didiEvans) 时期的开源作品（该账号因 2FA 凭证丢失已停用）。
+> A neat, quick-to-deploy GPT web client, from my early account.
+
+[![stars](https://img.shields.io/github/stars/didiEvans/gpt-joy-chat?style=for-the-badge&logo=github&color=00C9A7)](https://github.com/didiEvans/gpt-joy-chat/stargazers)
+[![Java](https://img.shields.io/badge/Java-845EC2?style=for-the-badge&logo=openjdk)](https://github.com/didiEvans/gpt-joy-chat)
+[![license](https://img.shields.io/github/license/didiEvans/gpt-joy-chat?style=for-the-badge&color=C49BFF)](https://github.com/didiEvans/gpt-joy-chat/blob/main/LICENSE)
+
 📦 更多项目（IM、聚合平台、AI 小程序…）见 [All Repos](https://github.com/EathonEvans?tab=repositories) · more on the repo list.
 
 
